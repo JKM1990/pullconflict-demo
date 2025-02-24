@@ -1,5 +1,5 @@
 # 🍕 Joe's Pizza Review
-- Rating: ⭐⭐⭐⭐
-- Price: $$
-- Must Try: Classic Margherita
-- Notes: Currently under review by food critics
+- Rating: ⭐ (being generous)
+- Price: $$ (highway robbery)
+- Must Try: The exit door
+- Notes: If you enjoy cardboard masquerading as pizza, this is your place.
